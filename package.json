@@ -1,0 +1,16 @@
+{
+  "name": "api-test",
+  "version": "0.0.1",
+  "description": "easy testing an API in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "api",
+    "test"
+  ],
+  "author": "Seva Rybakov (coding.fu@gmail.com)",
+  "license": "MIT"
+}
