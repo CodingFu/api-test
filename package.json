@@ -1,12 +1,12 @@
 {
   "name": "api-test",
   "version": "0.0.1",
-  "description": "easy testing an API in node.js",
+  "description": "easy API tests for node",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
+  "repository": "https://github.com/CodingFu/api-test",
   "keywords": [
     "api",
     "test"
